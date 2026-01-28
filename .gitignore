@@ -54,5 +54,11 @@ app.*.map.json
 .DS_Store
 Thumbs.db
 
+# macOS Local Config
+macos/Runner/Configs/Local.xcconfig
+
 # Trae AI
 .trae/
+scripts/package_dmg.sh
+pubspec.lock
+pubspec.lock

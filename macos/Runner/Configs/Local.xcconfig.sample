@@ -1,0 +1,13 @@
+// 本地配置文件 (不要提交到 Git)
+// 复制此文件为 Local.xcconfig 并填写你的配置
+
+// 1. Apple 开发团队 ID
+// 登录 https://developer.apple.com/account 查看
+// 格式: DEVELOPMENT_TEAM = 1234567890
+// DEVELOPMENT_TEAM =
+
+// 2. 应用 Bundle ID
+// 如果你想使用不同的 Bundle ID
+// PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.appname
+
+// 3. 其他私有配置
