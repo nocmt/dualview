@@ -62,3 +62,5 @@ macos/Runner/Configs/Local.xcconfig
 scripts/package_dmg.sh
 pubspec.lock
 pubspec.lock
+pubspec.lock
+pubspec.lock
