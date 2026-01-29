@@ -59,7 +59,7 @@ macos/Runner/Configs/Local.xcconfig
 
 # Trae AI
 .trae/
-scripts/package_dmg.sh
+scripts
 pubspec.lock
 pubspec.lock
 pubspec.lock
